@@ -1,6 +1,0 @@
-Antonio 7
-Luis 9
-Maria 8
-Miguel 9
-Nombre FOL
-Sara 1
