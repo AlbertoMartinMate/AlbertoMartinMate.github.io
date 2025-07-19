@@ -1,0 +1,34 @@
+total 222464
+drwxr-x--- 24 alberto alberto      4096 feb 24 23:02 .
+drwxr-xr-x  3 root    root         4096 dic 14  2023 ..
+-rw-rw-r--  1 alberto alberto 227168256 feb 10 22:25 amazon-q.appimage
+drwxr-xr-x  2 alberto alberto      4096 nov  9 22:45 .anydesk
+-rw-------  1 alberto alberto      7881 feb 19 00:35 .bash_history
+-rw-r--r--  1 alberto alberto       220 ene  6  2022 .bash_logout
+-rw-r--r--  1 alberto alberto      3771 ene  6  2022 .bashrc
+drwxr-xr-x 16 alberto alberto      4096 feb  6 23:28 .cache
+drwx------ 25 alberto alberto      4096 feb 16 23:46 .config
+drwxr-xr-x  6 alberto alberto      4096 feb 18 15:38 Descargas
+drwxrwxr-x  2 alberto alberto      4096 feb 24 22:02 Desktop
+drwxr-xr-x  3 alberto alberto      4096 feb 19 00:19 Documentos
+drwx------  3 alberto alberto      4096 nov 10 16:04 .gnome
+drwxrwxr-x  2 alberto alberto      4096 ene  7 22:04 .gphoto
+drwxr-xr-x  2 alberto alberto      4096 dic 14  2023 Imágenes
+drwxrwxr-x  3 alberto alberto      4096 dic 14  2023 .local
+drwxrwxr-x  4 alberto alberto      4096 ene 22 00:02 MASTER EN DESARROLLO WEB FULL STACK
+drwxrwxr-x  2 alberto alberto      4096 ene  7 22:26 movil dic2024
+drwxr-xr-x  2 alberto alberto      4096 dic 14  2023 Música
+drwxrwxr-x  2 alberto alberto      4096 feb 16 22:27 Pecera
+drwx------  3 alberto alberto      4096 dic 14  2023 .pki
+drwxr-xr-x  2 alberto alberto      4096 dic 14  2023 Plantillas
+-rw-r--r--  1 alberto alberto       807 ene  6  2022 .profile
+-rw-rw-r--  1 alberto alberto         0 feb 24 23:02 pruebalistado
+drwxrwxr-x  2 alberto alberto      4096 feb 24 22:59 pruebasLinux
+drwxrwxr-x  2 alberto alberto      4096 feb 10 22:41 .pseint
+drwxr-xr-x  2 alberto alberto      4096 dic 14  2023 Público
+drwx------  4 alberto alberto      4096 feb 10 22:24 snap
+-rw-r--r--  1 alberto alberto         0 dic 14  2023 .sudo_as_admin_successful
+drwxr-xr-x  2 alberto alberto      4096 dic 14  2023 Vídeos
+drwxrwxr-x  6 alberto alberto      4096 feb 18 15:35 VirtualBox VMs
+-rw-------  1 alberto alberto        64 feb 24 22:01 .Xauthority
+-rw-------  1 alberto alberto    504568 feb 24 22:02 .xsession-errors
