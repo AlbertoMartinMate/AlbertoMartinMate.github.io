@@ -1,0 +1,15 @@
+# Ignorar carpetas de configuración y trabajo local
+.vscode/
+PREWORK/
+
+# Ignorar archivos específicos que no quiero subir
+empleados.json
+
+# Ignorar archivos del sistema (por si acaso)
+.DS_Store
+Thumbs.db
+
+# Ignorar entornos virtuales de Python (si usas)
+venv/
+env/
+.work/
